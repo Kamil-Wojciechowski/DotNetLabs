@@ -1,0 +1,15 @@
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\bin\Debug\net7.0\Zadanie03.exe
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\bin\Debug\net7.0\Zadanie03.deps.json
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\bin\Debug\net7.0\Zadanie03.runtimeconfig.json
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\bin\Debug\net7.0\Zadanie03.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\bin\Debug\net7.0\Zadanie03.pdb
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.csproj.AssemblyReference.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.AssemblyInfoInputs.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.AssemblyInfo.cs
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.csproj.CoreCompileInputs.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\refint\Zadanie03.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.pdb
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\Zadanie03.genruntimeconfig.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie03\obj\Debug\net7.0\ref\Zadanie03.dll

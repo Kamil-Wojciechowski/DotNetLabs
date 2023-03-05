@@ -1,0 +1,16 @@
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MatchingGame.exe.config
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MatchingGame.exe
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MatchingGame.pdb
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MatchingGame.Logic.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MetroFramework.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MetroFramework.Fonts.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\bin\Debug\MatchingGame.Logic.pdb
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\Zadanie01.csproj.AssemblyReference.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\Zadanie01.csproj.SuggestedBindingRedirects.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\MatchingGame.MainForm.resources
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\Zadanie01.csproj.GenerateResource.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\Zadanie01.csproj.CoreCompileInputs.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\Zadanie01.csproj.CopyComplete
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\MatchingGame.exe
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_01_Kamil_Wojciechowski\Zadanie01\MatchingGame\obj\Debug\MatchingGame.pdb

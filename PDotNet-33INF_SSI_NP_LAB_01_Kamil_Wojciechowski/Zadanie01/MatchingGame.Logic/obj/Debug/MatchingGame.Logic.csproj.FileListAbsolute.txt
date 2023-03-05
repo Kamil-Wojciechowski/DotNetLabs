@@ -1,0 +1,6 @@
+C:\Users\Kamil\Downloads\samples-main (1)\samples-main\windowsforms\matching-game\net45\cs\MatchingGame.Logic\bin\Debug\MatchingGame.Logic.dll
+C:\Users\Kamil\Downloads\samples-main (1)\samples-main\windowsforms\matching-game\net45\cs\MatchingGame.Logic\bin\Debug\MatchingGame.Logic.pdb
+C:\Users\Kamil\Downloads\samples-main (1)\samples-main\windowsforms\matching-game\net45\cs\MatchingGame.Logic\obj\Debug\MatchingGame.Logic.csproj.AssemblyReference.cache
+C:\Users\Kamil\Downloads\samples-main (1)\samples-main\windowsforms\matching-game\net45\cs\MatchingGame.Logic\obj\Debug\MatchingGame.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Downloads\samples-main (1)\samples-main\windowsforms\matching-game\net45\cs\MatchingGame.Logic\obj\Debug\MatchingGame.Logic.dll
+C:\Users\Kamil\Downloads\samples-main (1)\samples-main\windowsforms\matching-game\net45\cs\MatchingGame.Logic\obj\Debug\MatchingGame.Logic.pdb

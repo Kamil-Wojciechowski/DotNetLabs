@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zadanie05": {
+      "commandName": "Project",
+      "commandLineArgs": "Podmien Zamienione testTextIn.txt testTextOut.txt"
+    }
+  }
+}
