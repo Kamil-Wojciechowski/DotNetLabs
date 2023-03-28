@@ -13,13 +13,22 @@ namespace Zadanie07
 
         private void appendColums()
         {
+            listView1.View = View.Details;
             listView1.Columns.Add("Kodek");
+            listView1.Columns.Add("Rozszerzenie");
             listView1.Columns.Add("Opis");
         }
 
         private void appendData()
         {
             ImageCodecInfo[] data = ImageCodecInfo.GetImageEncoders();
+
+            foreach(var codec in data)
+            {
+                ListViewItem item = new ListViewItem(new [] { codec.FormatDescription, codec.FilenameExtension, codec.CodecName });
+
+                listView1.Items.Add(item);
+            }
         }
     }
 }
