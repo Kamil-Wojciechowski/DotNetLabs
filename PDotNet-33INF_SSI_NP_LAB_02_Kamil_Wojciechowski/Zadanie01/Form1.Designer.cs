@@ -30,9 +30,10 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 72F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(-2, 28);
+            label1.Location = new Point(-3, 47);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(994, 128);
+            label1.Size = new Size(1491, 191);
             label1.TabIndex = 0;
             label1.Text = "00:00:00 DD.MM.YYYY";
             label1.Click += label1_Click;
@@ -43,10 +44,11 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(986, 182);
+            ClientSize = new Size(1409, 303);
             Controls.Add(label1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
