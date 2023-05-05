@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pesel>99010101001</Pesel>
+  <Imie>Kamil</Imie>
+  <Nazwisko>Wojciechowski</Nazwisko>
+  <Wiek>24</Wiek>
+</Person>

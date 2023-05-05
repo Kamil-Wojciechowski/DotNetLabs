@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="osoby.xsd">
+  <Person>
+    <Pesel>99999900001</Pesel>
+    <Imie>Mirosław</Imie>
+    <Nazwisko>Szczesny</Nazwisko>
+    <Wiek>21</Wiek>
+  </Person>
+  <Person>
+    <Pesel>99999900002</Pesel>
+    <Imie>Kasia</Imie>
+    <Nazwisko>Łapka</Nazwisko>
+    <Wiek>25</Wiek>
+  </Person>
+  <Person>
+    <Pesel>99999900003</Pesel>
+    <Imie>Paweł</Imie>
+    <Nazwisko>Mikser</Nazwisko>
+    <Wiek>31</Wiek>
+  </Person>
+</ArrayOfPerson>

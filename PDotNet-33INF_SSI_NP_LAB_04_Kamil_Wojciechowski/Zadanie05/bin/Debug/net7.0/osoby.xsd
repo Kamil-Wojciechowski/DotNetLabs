@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:tns="http://www.example.com/Osoba" targetNamespace="http://www.example.com/Osoba" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Osoba">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Imię" type="xs:string" />
+        <xs:element name="Nazwisko" type="xs:string" />
+        <xs:element name="Wiek" type="xs:int" />
+        <xs:element name="Pesel" type="xs:long" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

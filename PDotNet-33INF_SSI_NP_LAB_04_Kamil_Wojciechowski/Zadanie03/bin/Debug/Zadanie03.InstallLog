@@ -1,0 +1,235 @@
+﻿Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe assembly.
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Service Zadanie03 has been successfully installed.
+Creating EventLog source Zadanie03 in log Application...
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Creating EventLog source Zadanie03 in log Application...
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Restoring event log to previous state for source Zadanie03.
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Creating EventLog source Zadanie03 in log Application...
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Restoring event log to previous state for source Zadanie03.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Creating EventLog source Zadanie03 in log Application...
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Restoring event log to previous state for source Zadanie03.
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Warning: The source Zadanie03 is not registered on the local machine.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Creating EventLog source Zadanie03 in log Application...
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Restoring event log to previous state for source Zadanie03.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Creating EventLog source Zadanie03 in log Application...
+Rolling back assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Restoring event log to previous state for source Zadanie03.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Service Zadanie03 has been successfully installed.
+Creating EventLog source Zadanie03 in log Application...
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Attempt to stop service Zadanie03.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Service Zadanie03 has been successfully installed.
+Creating EventLog source Zadanie03 in log Application...
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Service Zadanie03 has been successfully installed.
+Creating EventLog source Zadanie03 in log Application...
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Service Zadanie03 has been successfully installed.
+Creating EventLog source Zadanie03 in log Application...
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Installing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Installing service Zadanie03...
+Service Zadanie03 has been successfully installed.
+Creating EventLog source Zadanie03 in log Application...
+Committing assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Uninstalling assembly 'D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.exe
+   logfile = D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie03\bin\Debug\Zadanie03.InstallLog
+Removing EventLog source Zadanie03.
+Service Zadanie03 is being removed from the system...
+Service Zadanie03 was successfully removed from the system.
+Attempt to stop service Zadanie03.
