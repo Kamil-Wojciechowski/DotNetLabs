@@ -1,0 +1,17 @@
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\bin\Debug\net7.0-windows\Zadanie08.exe
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\bin\Debug\net7.0-windows\Zadanie08.deps.json
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\bin\Debug\net7.0-windows\Zadanie08.runtimeconfig.json
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\bin\Debug\net7.0-windows\Zadanie08.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\bin\Debug\net7.0-windows\Zadanie08.pdb
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.csproj.AssemblyReference.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.Form1.resources
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.csproj.GenerateResource.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.AssemblyInfoInputs.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.AssemblyInfo.cs
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.csproj.CoreCompileInputs.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\refint\Zadanie08.dll
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.pdb
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\Zadanie08.genruntimeconfig.cache
+D:\Project\.NET\PDotNet-33INF_SSI_NP_LAB_04_Kamil_Wojciechowski\Zadanie08\obj\Debug\net7.0-windows\ref\Zadanie08.dll

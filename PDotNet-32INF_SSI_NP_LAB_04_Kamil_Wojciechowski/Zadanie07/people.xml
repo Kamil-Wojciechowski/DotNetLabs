@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <person>
+    <firstname>John</firstname>
+    <lastname>Someone</lastname>
+    <age>30</age>
+    <street>Main St.</street>
+    <city>New York</city>
+  </person>
+  <person>
+    <firstname>Jane</firstname>
+    <lastname>Mijagi</lastname>
+    <age>25</age>
+    <street>5th Ave.</street>
+    <city>Los Angeles</city>
+  </person>
+</people>

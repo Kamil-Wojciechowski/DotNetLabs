@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dz2W9hOmfY6zU2pQFDr/AZgJ77cfxslu0GM9pmtG1rB2HXfZPZpvYdCRhbTA+Dy4ETXGO+BJyO7aj+9lWyQM4A==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\.NET\\PDotNet-32INF_SSI_NP_LAB_05_Kamil_Wojciechowski\\Zadanie02\\Zadanie02.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamil\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
